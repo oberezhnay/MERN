@@ -1,6 +1,6 @@
 {
-    "port": 5000,
+    "port": 80,
     "jwtSecret": "may the force be with you",
     "mongooUri": "mongodb+srv://oberezhna:exemple@cluster0-jbejg.mongodb.net/app?retryWrites=true&w=majority",
-    "baseUrl": "http://localhost:5000"
+    "baseUrl": "https://sheltered-hollows-85151.herokuapp.com/"
 }
